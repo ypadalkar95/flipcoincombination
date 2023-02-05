@@ -1,5 +1,4 @@
 #varibles
-
 counter=0
 index=0
 total_heads=0
@@ -26,6 +25,7 @@ double[first_per]=0
 double[second_per]=0
 double[third_per]=0
 double[fourth_per]=0
+
 
 read -p "Enter how many times you want flip the coin  " FLIP
 while [ $counter -lt $FLIP ]
